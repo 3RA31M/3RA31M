@@ -85,17 +85,17 @@ class Brabim:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brabim03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brabim03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3RA31M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3RA31M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brabim03&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3RA31M&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brabim03&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=3RA31M&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="contribution graph" />
 </div>
 
 ---
@@ -104,7 +104,7 @@ class Brabim:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=brabim03&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=3RA31M&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
