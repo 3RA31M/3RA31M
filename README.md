@@ -29,12 +29,12 @@ class Brabim:
         self.role        = "Frontend Developer"
         self.focus       = ["AI Embedded Systems", "Cyber-Security × AI"]
         self.languages   = ["Python", "C/C++", "JavaScript", "SQL"]
-        self.superpower  = "Blending AI + Security + Frontend 🚀"
+        self.superpower  = "Blending AI + Security + Frontend "
         self.contact     = "brabim03@icloud.com"
         self.portfolio   = "https://brabim.vercel.app/"
 
     def current_mission(self):
-        return "Building smart, secure, and scalable systems 🔐🤖"
+        return "Building smart, secure, and scalable systems "
 ```
 
 ---
@@ -124,7 +124,7 @@ class Brabim:
 
 > *"The best systems are ones that think for themselves, protect themselves, and look beautiful doing it."*
 >
-> — Brabim 🔐🤖✨
+> — Brabim 
 
 </div>
 
